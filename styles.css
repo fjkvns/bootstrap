@@ -1,0 +1,55 @@
+body{
+    background-color:aliceblue;
+}
+.container{
+    margin-top: 35px;
+}
+.image{
+    width: 80px;
+    height: auto;
+    display: inline-block;
+    border: 3px solid rgb(27, 27, 27);
+    box-shadow: 0 0 10px 0 black;
+}
+.foto_text1{
+    display: inline-block;
+}
+.span_bold{
+    font-weight: bold;
+}
+.foto_conts {
+    line-height: 30px;
+}
+.foto_conts p {
+    margin-bottom: -5px;
+    padding-top: 15px;
+}
+
+.lang_lvl, .lang_level{
+    text-align: right;
+}
+.langs p + p{
+    margin-top: -25px;
+}
+.lang_lvl{
+    font-size: 12px;
+}
+.row_wbord{
+    border-top: 2px solid black;
+}
+.row_lbord{
+    border-right: 2px solid black;
+}
+.span_borderrr{
+    font-weight: bold;
+    width: 100%;
+    border-bottom: 2px solid black;
+}
+.font_big{
+    font-weight: bold;
+    font-size: 25px;
+}
+.font-small{
+    font-size: 12px;
+    color: grey;
+}
